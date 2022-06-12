@@ -1,10 +1,10 @@
-👋 Hi,I'm Mahsa \n
-🔭 I’m currently Developing Giftyjob.com Web Application
-🌱 I’m currently learning Deep Learning PyTorch for Medical Image Analysis 
-🌱 I’m currently learning Microservices with Django
-👯 I’m looking to collaborate on DNA Computing as next generation molecular computers 
-👯 I’m looking to collaborate on Advance Implementation of Microservices
-🤔 I’m looking for help with Implement Machine Learning Algorithm on FPGA
+👋 Hi,I'm Mahsa <br>
+🔭 I’m currently Developing Giftyjob.com Web Application <br>
+🌱 I’m currently learning Deep Learning PyTorch for Medical Image Analysis <br>
+🌱 I’m currently learning Microservices with Django <br>
+👯 I’m looking to collaborate on DNA Computing as next generation molecular computers <br>
+👯 I’m looking to collaborate on Advance Implementation of Microservices <br>
+🤔 I’m looking for help with Implement Machine Learning Algorithm on FPGA <br>
 📫 How to reach me: yzdnimahsa@gmail.com
 <!--
 **mhsyzdni/mhsyzdni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
