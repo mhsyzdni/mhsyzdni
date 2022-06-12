@@ -2,6 +2,7 @@
 🔭 I’m currently Developing Giftyjob.com Web Application <br>
 🌱 I’m currently learning Deep Learning PyTorch for Medical Image Analysis <br>
 🌱 I’m currently learning Microservices with Django <br>
+🌱 I’m currently learning Signal Processing Algorithms <br>
 👯 I’m looking to collaborate on DNA Computing as next generation molecular computers <br>
 👯 I’m looking to collaborate on Advance Implementation of Microservices <br>
 🤔 I’m looking for help with Implement Machine Learning Algorithm on FPGA <br>
