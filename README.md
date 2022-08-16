@@ -3,7 +3,6 @@
 🌱 I’m currently learning Deep Learning PyTorch for Medical Image Analysis <br>
 🌱 I’m currently learning Signal Processing Algorithms <br>
 👯 I’m looking for collaborate on DNA Computing as next generation molecular computers <br>
-👯 I’m looking for collaborate on Advance Implementation of Microservices <br>
 🤔 I’m looking for help with Implement Machine Learning Algorithm on FPGA <br>
 📫 How to reach me: yzdnimahsa@gmail.com
 <!--
