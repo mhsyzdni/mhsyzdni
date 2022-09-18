@@ -1,15 +1,14 @@
 👋 Hi,I'm Mahsa <br>
-🔭 I’m currently Developing Giftyjob.com Web Application <br>
-🌱 I’m currently learning Deep Learning PyTorch for Medical Image Analysis <br>
-🌱 I’m currently learning Signal Processing Algorithms <br>
-👯 I’m looking for collaborate on DNA Computing as next generation molecular computers <br>
-🤔 I’m looking for help with Implement Machine Learning Algorithm on FPGA <br>
+🌱 I’m currently learning Deep Learning, PyTorch <br>
+👯 I’m looking for PHD position at a university in the field of my interests <br>
 📫 How to reach me: yzdnimahsa@gmail.com
 <!--
 **mhsyzdni/mhsyzdni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently Developing Giftyjob.com Web Application <br>
+🤔 I’m looking for help with Implement Machine Learning Algorithm on FPGA <br>
+🌱 I’m currently learning Signal Processing Algorithms <br>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
